@@ -9,8 +9,7 @@ An end-to-end data analytics project that explores **3,900 retail transactions**
 This project analyzes customer shopping behavior data to answer key business questions around revenue trends, discounts, subscriptions, customer loyalty, and product performance — helping translate raw transactional data into actionable business recommendations.
 
 ## Dashboard Screenshot
-
-
+![Executive Dashboard](screenshots/executive-dashboard.png)
 
 **Workflow:**
 ```
