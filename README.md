@@ -70,7 +70,7 @@ Performed in `customer_shopping_behavior_analysis.ipynb` using **pandas** and **
 - Product ratings & discount rate visuals
 - Subscriber vs. non-subscriber revenue comparison
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](screenshots/executive-dashboard.png)
 
 ---
 
